@@ -1,5 +1,5 @@
 ---
-date: '2024-10-27T20:55:58-04:00'
+date: '2024-10-27'
 draft: false
 title: 'Notes on: Kai Notebook - 7 habits & tips before school'
 ---
