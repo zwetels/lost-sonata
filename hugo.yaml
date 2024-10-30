@@ -2,3 +2,4 @@ baseURL: https://example.org/
 languageCode: en-us
 title: lost sonata
 theme: ["PaperMod"]
+params: assets: favicon: "favicon/favicon.ico"
