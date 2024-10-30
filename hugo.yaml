@@ -4,4 +4,5 @@ title: lost sonata
 theme: ["PaperMod"]
 params: 
   assets: 
+    disableHLJS: true
     favicon: "favicon/favicon.ico"
