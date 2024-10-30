@@ -5,4 +5,3 @@ theme: ["PaperMod"]
 params: 
   assets: 
     disableHLJS: true
-    favicon: "favicon/favicon.ico"
