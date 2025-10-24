@@ -1,6 +1,6 @@
 ---
 date: '2024-10-30'
-draft: false
+draft: true
 title: 'My Girlfriend'
 ---
 

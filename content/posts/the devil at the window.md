@@ -1,6 +1,6 @@
 ---
 date: '2024-10-28'
-draft: false
+draft: true
 title: 'The devil at the window'
 ---
 
