@@ -4,7 +4,7 @@ draft: false
 title: 'Forgive Yourself'
 ---
 
-##### Forgive Yourself First,
+Forgive Yourself First,
 
 because only then will you have the grace to forgive others.
 
